@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "774986333697",
+    "firebase_url": "https://fir-sample-901a8.firebaseio.com",
+    "project_id": "fir-sample-901a8",
+    "storage_bucket": "fir-sample-901a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774986333697:android:23fe765e7d3e950c",
+        "android_client_info": {
+          "package_name": "com.example.saipr.gpa_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774986333697-6j3tgtvt565p7l1fhu2hul8fuqcs55t0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saipr.gpa_calculator",
+            "certificate_hash": "7d339acc59d1579d5aaaf3f80abeb6ded0371e78"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jMa3Rv-KqQyrTxY846ehCgLeWvbo5K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774986333697-ngmhk03sh6576otghmkj00v976tlh9et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
